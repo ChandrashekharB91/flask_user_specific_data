@@ -1,0 +1,1 @@
+In this small project we have created a form using flask which accepts the information from the user.
